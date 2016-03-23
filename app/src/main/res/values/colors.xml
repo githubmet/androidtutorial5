@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTweetmet">#71c3de</color>
+    <color name="colorOfToolbar">#5a9cb1</color>
+
+    <color name="color_none_received">#999999</color>
+    <color name="color_start_received">#00FF00</color>
+    <color name="color_stop_received">#FF0000</color>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:id="@+id/toolbarP001"
+            android:background="@color/colorOfToolbar"/>
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/p001relativelayout"/>
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_dialog_info"
+        android:id="@+id/floatingActionButtonInfo"
+        android:layout_gravity="bottom|left"/>
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_dialog_email"
+        android:id="@+id/floatingActionButtonEmail"
+        android:layout_gravity="bottom|right"/>
+
+</android.support.design.widget.CoordinatorLayout>
