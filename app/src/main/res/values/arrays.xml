@@ -4,7 +4,8 @@
         <item>P001CoordinatorLayout</item>
         <item>P002FragmentReview</item>
         <item>P003TwoFragmentCommunication</item>
-        <item>P004</item>
-        <item>P005</item>
+        <item>P004FragmentProgrammatically</item>
+        <item>P005FragmentProg2</item>
+        <item>P006Fragmentv4</item>
     </string-array>
 </resources>

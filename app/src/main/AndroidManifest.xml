@@ -15,7 +15,6 @@
             >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -29,9 +28,15 @@
             </meta-data>
         </activity>
 
-        <activity android:name=".P002FragmentReview"></activity>
+        <activity android:name=".P002FragmentReview"/>
 
-        <activity android:name=".P003TwoFragmentCommunication"></activity>
+        <activity android:name=".P003TwoFragmentCommunication"/>
+
+        <activity android:name=".P004FragmentProgrammatically"/>
+
+        <activity android:name=".P005FragmentProg2"/>
+
+        <activity android:name=".P006Fragmentv4"/>
 
     </application>
 
