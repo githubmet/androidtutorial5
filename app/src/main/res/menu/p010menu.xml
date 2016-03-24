@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/itemOneP010"
+            android:title="Copy Drawable"
+            android:icon="?attr/actionModeCopyDrawable"/>
+
+        <item
+            android:id="@+id/itemTwoP010"
+            android:title="Paste Drawable"
+            android:icon="?attr/actionModePasteDrawable"/>
+
+        <item
+            android:id="@+id/itemThreeP010"
+            android:title="Select Drawable"
+            android:icon="?attr/actionModeSelectAllDrawable"/>
+
+        <item
+            android:id="@+id/itemFourP010"
+            android:title="Share Drawable"
+            android:icon="?attr/actionModeShareDrawable"/>
+    </group>
+</menu>

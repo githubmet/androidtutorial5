@@ -10,6 +10,7 @@
         <item>P007Fonts</item>
         <item>P008ScrollingMagic</item>
         <item>P009DrawerLayoutNew</item>
+        <item>P010DrawerLayoutFull</item>
     </string-array>
 
     <string-array name="a_lot_of_items">

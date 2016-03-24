@@ -45,6 +45,9 @@
 
         <activity android:name=".P009DrawerLayoutNew"/>
 
+        <activity android:name=".P010DrawerLayoutFull"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
     </application>
 
 </manifest>
