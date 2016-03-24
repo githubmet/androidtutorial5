@@ -3,4 +3,8 @@
     <string name="action_settings">Settings</string>
     <string name="fragment_tag">tag</string>
 
+    <string name="fonts">if the font is invalid, <b>Android</b> will use the system defaults
+    src; main sag click; directory <b>assets</b>;sag click new package fonts; icersine zeroesthree
+    </string>
+
 </resources>

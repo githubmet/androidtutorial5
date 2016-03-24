@@ -38,6 +38,13 @@
 
         <activity android:name=".P006Fragmentv4"/>
 
+        <activity android:name=".P007Fonts"/>
+
+        <activity android:name=".P008ScrollingMagic"
+            android:theme="@style/AppTheme.NoActionBar"/>
+
+        <activity android:name=".P009DrawerLayoutNew"/>
+
     </application>
 
 </manifest>
