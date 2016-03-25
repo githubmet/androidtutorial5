@@ -8,9 +8,15 @@
         <item>P005FragmentProg2</item>
         <item>P006Fragmentv4</item>
         <item>P007Fonts</item>
-        <item>P008ScrollingMagic</item>
+        <item>P008HATAScrollingMagic</item>
         <item>P009DrawerLayoutNew</item>
         <item>P010DrawerLayoutFull</item>
+        <item>P011LayoutProgrammatically</item>
+        <item>P012TabHostReview</item>
+        <item>P013TabHostNew</item>
+        <item>P014ViewPagerTransforms</item>
+
+
     </string-array>
 
     <string-array name="a_lot_of_items">

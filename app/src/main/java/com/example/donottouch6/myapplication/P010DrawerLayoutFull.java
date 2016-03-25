@@ -1,7 +1,5 @@
 package com.example.donottouch6.myapplication;
 
-
-import android.app.Activity;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.Snackbar;
@@ -43,6 +41,7 @@ public class P010DrawerLayoutFull extends AppCompatActivity {
                         switch (item.getItemId()){
                             case R.id.itemOneP010:
                                 item.setChecked(true);
+                                //invalidateOptionsMenu(); //watch out this is important
                                 drawerLayoutP010.closeDrawers();
                                 Snackbar.make(getWindow().getDecorView(),"item one is selected",Snackbar.LENGTH_LONG).show();
                                 return true;

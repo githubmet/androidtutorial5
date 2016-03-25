@@ -40,7 +40,7 @@
 
         <activity android:name=".P007Fonts"/>
 
-        <activity android:name=".P008ScrollingMagic"
+        <activity android:name=".P008HATAScrollingMagic"
             android:theme="@style/AppTheme.NoActionBar"/>
 
         <activity android:name=".P009DrawerLayoutNew"/>
@@ -48,6 +48,14 @@
         <activity android:name=".P010DrawerLayoutFull"
             android:theme="@style/AppTheme.NoActionBar"/>
 
+        <activity android:name=".P011LayoutProgrammatically"/>
+
+        <activity android:name=".P012TabHostReview"/>
+
+        <activity android:name=".P013TabHostNew"/>
+
+        <activity android:name=".P014ViewPagerTransforms"
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
 </manifest>

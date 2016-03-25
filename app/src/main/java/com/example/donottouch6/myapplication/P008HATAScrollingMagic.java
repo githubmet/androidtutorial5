@@ -7,7 +7,7 @@ import android.support.v7.widget.Toolbar;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-public class P008ScrollingMagic extends AppCompatActivity {
+public class P008HATAScrollingMagic extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
