@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragmentTopP016"
+        android:layout_alignParentTop="true"
+        android:name="com.example.donottouch6.myapplication.fragment.P016FragmentTop"
+        tools:layout="@layout/p016fragmenttop"/>
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragmentBottomP016"
+        android:layout_alignParentBottom="true"
+        android:name="com.example.donottouch6.myapplication.fragment.P016FragmentBottom"
+        tools:layout="@layout/p016fragmentbottom"/>
+
+
+</RelativeLayout>

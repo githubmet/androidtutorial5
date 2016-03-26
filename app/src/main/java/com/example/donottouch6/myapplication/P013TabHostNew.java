@@ -17,5 +17,6 @@ public class P013TabHostNew extends AppCompatActivity{
         FragmentPagerAdapter fragmentPagerAdapter=new P013FragmentPagerAdapter(getSupportFragmentManager());
         viewPagerP013.setAdapter(fragmentPagerAdapter);
 
+
     }
 }

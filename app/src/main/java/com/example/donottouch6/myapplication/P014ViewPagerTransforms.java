@@ -6,8 +6,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 
-import com.ToxicBakery.viewpager.transforms.RotateDownTransformer;
-import com.ToxicBakery.viewpager.transforms.RotateUpTransformer;
+import com.ToxicBakery.viewpager.transforms.ForegroundToBackgroundTransformer;
 import com.example.donottouch6.myapplication.adapter.P014PagerAdapter;
 
 public class P014ViewPagerTransforms extends AppCompatActivity {
@@ -25,6 +24,6 @@ public class P014ViewPagerTransforms extends AppCompatActivity {
                 dizi);
         viewPagerP014.setAdapter(pagerAdapter);
 
-        viewPagerP014.setPageTransformer(true,new RotateDownTransformer());
+        viewPagerP014.setPageTransformer(true,new ForegroundToBackgroundTransformer());
     }
 }
