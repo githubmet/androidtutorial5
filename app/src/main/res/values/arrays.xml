@@ -17,6 +17,9 @@
         <item>P014ViewPagerTransforms</item>
         <item>P015ViewPagerPagerTabStrip</item>
         <item>P016getArgumentssetArguments</item>
+        <item>P017FragmentReplaceProgrammatically</item>
+        <item>P018SwipeRefreshLayout</item>
+        <item>HATAP019UseCirclePageIndicator</item>
 
 
     </string-array>
@@ -25,5 +28,15 @@
         <item>1</item><item>2</item><item>3</item><item>4</item><item>5</item>
         <item>6</item><item>7</item><item>8</item><item>9</item><item>10</item>
         <item>11</item><item>12</item><item>13</item><item>14</item><item>15</item>
+    </string-array>
+
+    <string-array name="string_array_p018">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+        <item>item 4</item>
+        <item>item 5</item>
+        <item>item 6</item>
+        <item>item 7</item>
     </string-array>
 </resources>

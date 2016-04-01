@@ -61,6 +61,12 @@
             android:theme="@style/AppTheme.NoActionBar"/>
 
         <activity android:name=".P016getArgumentssetArguments"/>
+
+        <activity android:name=".P017FragmentReplaceProgrammatically"/>
+
+        <activity android:name=".P018SwipeRefreshLayout"/>
+        
+        <activity android:name=".P019UseCirclePageIndicator"/>
     </application>
 
 </manifest>

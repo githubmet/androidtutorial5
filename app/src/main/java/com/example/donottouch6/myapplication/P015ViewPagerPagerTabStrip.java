@@ -5,6 +5,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.view.WindowManager;
 
 import com.example.donottouch6.myapplication.adapter.P015FragmentPagerAdapter;
 
@@ -22,7 +23,6 @@ public class P015ViewPagerPagerTabStrip extends AppCompatActivity {
         FragmentPagerAdapter fragmentPagerAdapter=new
                 P015FragmentPagerAdapter(getSupportFragmentManager());
         viewPagerP015.setAdapter(fragmentPagerAdapter);
-
 
 
     }
