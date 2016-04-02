@@ -19,7 +19,9 @@
         <item>P016getArgumentssetArguments</item>
         <item>P017FragmentReplaceProgrammatically</item>
         <item>P018SwipeRefreshLayout</item>
-        <item>HATAP019UseCirclePageIndicator</item>
+
+        <item>P020SearchableListView</item>
+        <item>P021ExpandableListView</item>
 
 
     </string-array>
@@ -38,5 +40,32 @@
         <item>item 5</item>
         <item>item 6</item>
         <item>item 7</item>
+    </string-array>
+
+    <string-array name="string_array_p020">
+        <item>aName</item>
+        <item>aSurname</item>
+        <item>bName</item>
+        <item>bSurname</item>
+        <item>cName</item>
+        <item>cSurname</item>
+        <item>dName</item>
+        <item>dSurname</item>
+        <item>eName</item>
+        <item>eSurname</item>
+        <item>fName</item>
+        <item>fSurname</item>
+        <item>gName</item>
+        <item>gSurname</item>
+        <item>hName</item>
+        <item>hSurname</item>
+        <item>kName</item>
+        <item>kSurname</item>
+        <item>lName</item>
+        <item>lSurname</item>
+        <item>mName</item>
+        <item>mSurname</item>
+        <item>nName</item>
+        <item>nSurname</item>
     </string-array>
 </resources>

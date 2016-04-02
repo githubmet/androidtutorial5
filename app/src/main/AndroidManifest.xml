@@ -65,8 +65,12 @@
         <activity android:name=".P017FragmentReplaceProgrammatically"/>
 
         <activity android:name=".P018SwipeRefreshLayout"/>
-        
-        <activity android:name=".P019UseCirclePageIndicator"/>
+
+        <activity android:name=".P020SearchableListView"
+            android:windowSoftInputMode="stateHidden"
+            />
+
+        <activity android:name=".P021ExpandableListView"/>
     </application>
 
 </manifest>
