@@ -40,9 +40,6 @@
 
         <activity android:name=".P007Fonts"/>
 
-        <activity android:name=".P008HATAScrollingMagic"
-            android:theme="@style/AppTheme.NoActionBar"/>
-
         <activity android:name=".P009DrawerLayoutNew"/>
 
         <activity android:name=".P010DrawerLayoutFull"
@@ -60,8 +57,6 @@
         <activity android:name=".P015ViewPagerPagerTabStrip"
             android:theme="@style/AppTheme.NoActionBar"/>
 
-        <activity android:name=".P016getArgumentssetArguments"/>
-
         <activity android:name=".P017FragmentReplaceProgrammatically"/>
 
         <activity android:name=".P018SwipeRefreshLayout"/>
@@ -71,6 +66,8 @@
             />
 
         <activity android:name=".P021ExpandableListView"/>
+
+        <activity android:name=".P022ParentAndChild"/>
     </application>
 
 </manifest>

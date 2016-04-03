@@ -8,7 +8,7 @@
         <item>P005FragmentProg2</item>
         <item>P006Fragmentv4</item>
         <item>P007Fonts</item>
-        <item>P008HATAScrollingMagic</item>
+
         <item>P009DrawerLayoutNew</item>
         <item>P010DrawerLayoutFull</item>
         <item>P011LayoutProgrammatically</item>
@@ -16,12 +16,13 @@
         <item>P013TabHostNew</item>
         <item>P014ViewPagerTransforms</item>
         <item>P015ViewPagerPagerTabStrip</item>
-        <item>P016getArgumentssetArguments</item>
+
         <item>P017FragmentReplaceProgrammatically</item>
         <item>P018SwipeRefreshLayout</item>
 
         <item>P020SearchableListView</item>
         <item>P021ExpandableListView</item>
+        <item>P022ParentAndChild</item>
 
 
     </string-array>
