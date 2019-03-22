@@ -28,11 +28,9 @@
             </meta-data>
         </activity>
 
-        <activity android:name=".P002FragmentReview"/>
+        <activity android:name=".P002OttoReview"/>
 
         <activity android:name=".P003TwoFragmentCommunication"/>
-
-        <activity android:name=".P004FragmentProgrammatically"/>
 
         <activity android:name=".P005FragmentProg2"/>
 

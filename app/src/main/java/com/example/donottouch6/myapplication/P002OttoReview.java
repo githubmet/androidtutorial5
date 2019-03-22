@@ -9,7 +9,7 @@ import android.widget.EditText;
 import com.example.donottouch6.myapplication.backbone.P002OttoEventBus;
 import com.example.donottouch6.myapplication.model.P002OttoEventBusModel;
 
-public class P002FragmentReview extends Activity implements
+public class P002OttoReview extends Activity implements
         View.OnClickListener{
     EditText editTextP002;
     @Override

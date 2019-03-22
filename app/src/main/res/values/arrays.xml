@@ -2,9 +2,8 @@
 <resources>
     <string-array name="activity_names">
         <item>P001CoordinatorLayout</item>
-        <item>P002FragmentReview</item>
+        <item>P002OttoReview</item>
         <item>P003TwoFragmentCommunication</item>
-        <item>P004FragmentProgrammatically</item>
         <item>P005FragmentProg2</item>
         <item>P006Fragmentv4</item>
         <item>P007Fonts</item>

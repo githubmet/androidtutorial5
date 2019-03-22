@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.donottouch6.myapplication5"
+        applicationId "com.example.donottouch6.androidtutorial5"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
