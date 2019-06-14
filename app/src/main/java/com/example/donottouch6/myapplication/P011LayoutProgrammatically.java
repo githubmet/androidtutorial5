@@ -35,6 +35,7 @@ public class P011LayoutProgrammatically extends Activity {
                 LinearLayout.LayoutParams.WRAP_CONTENT
         );
         konumTextViewFrom.weight=0.5f;
+        konumTextViewFrom.gravity=Gravity.CENTER;
         textViewFrom.setLayoutParams(konumTextViewFrom);
 
         TextView textViewLayout=new TextView(this);
@@ -45,6 +46,7 @@ public class P011LayoutProgrammatically extends Activity {
                 LinearLayout.LayoutParams.WRAP_CONTENT
         );
         konumTextViewLayout.weight=0.5f;
+        konumTextViewLayout.gravity=Gravity.RIGHT;
         textViewLayout.setLayoutParams(konumTextViewLayout);
 
         linearLayoutBase.addView(textViewHello);

@@ -7,7 +7,7 @@
 
     <TabHost
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:id="@+id/tabHostP012">
 
         <LinearLayout
@@ -30,10 +30,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
+
                     <TextView
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:text="Hello"/>
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:text="Hello" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -41,10 +43,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
+
                     <TextView
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:text="From"/>
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="From" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -52,10 +56,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:orientation="vertical">
+
                     <TextView
                         android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:text="TabHost"/>
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:text="TabHost" />
                 </LinearLayout>
             </FrameLayout>
         </LinearLayout>

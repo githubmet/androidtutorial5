@@ -12,4 +12,12 @@
     <string name="open">open</string>
     <string name="close">close</string>
 
+    <string name="send_data">Send data</string>
+    <string name="text">Text</string>
+
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="none">none</string>
+
 </resources>

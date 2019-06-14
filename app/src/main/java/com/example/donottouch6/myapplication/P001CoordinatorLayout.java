@@ -17,7 +17,6 @@ public class P001CoordinatorLayout extends AppCompatActivity implements View.OnC
         Toolbar toolbarP001 = (Toolbar) findViewById(R.id.toolbarP001);
         setSupportActionBar(toolbarP001);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-        getSupportActionBar().setDisplayShowHomeEnabled(true);
 
         toolbarP001.setNavigationOnClickListener(  //This is more philosophy
                 new View.OnClickListener() {

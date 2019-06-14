@@ -19,6 +19,9 @@
             </intent-filter>
         </activity>
 
+
+        <activity android:name=".P000ExpandableListAdapter"/>
+
         <activity android:name=".P001CoordinatorLayout"
             android:theme="@style/AppTheme.NoActionBar"
             android:parentActivityName=".P000Menu">

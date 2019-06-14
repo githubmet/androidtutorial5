@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="activity_names">
+
+
+        <item>P000ExpandableListAdapter</item>
         <item>P001CoordinatorLayout</item>
         <item>P002OttoReview</item>
         <item>P003TwoFragmentCommunication</item>
